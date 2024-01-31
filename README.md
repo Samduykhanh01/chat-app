@@ -1,2 +1,2 @@
 Realtime chat application.
-Built using Django framwork
+Built using Django framework
